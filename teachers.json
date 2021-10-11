@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Saju Islam Imran",
+        "img": "https://www.pngkey.com/png/detail/106-1061987_businessman-220901-small-business-man-png.png",
+        "Qualification": "PhD in Coumputer Science,",
+        "exparience": "10years of teaching exparience in"
+    },
+    {
+        "id": 2,
+        "name": "Steve Joves",
+        "img": "https://image.shutterstock.com/image-photo/handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg",
+        "Qualification": "Coumputer Science, Teach 1000 of students",
+        "exparience": "6 years of teaching exparience in"
+    },
+    {
+        "id": 3,
+        "name": "Masum Billah",
+        "img": "https://image.shutterstock.com/image-photo/close-funny-handsome-young-darkskinned-260nw-763024255.jpg",
+        "Qualification": "Founder of A Big Company",
+        "exparience": "20 years of teaching exparience in"
+    }
+]
