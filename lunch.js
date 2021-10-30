@@ -1,20 +1,20 @@
-breakfast=[
+lunch=[
     {
         mealId:1,
-        img:"https://i.ibb.co/KxwTqLb/breakfast1.png",
-        name: "Fried Omlate and Pork",
-        price: 23.99
+        img:"https://i.ibb.co/8D8WMff/lunch1.png",
+        name: "Beef and salad",
+        price: 14.99
     },
     {
         mealId:2,
-        img:"https://i.ibb.co/dpJsJ2Q/breakfast2.png",
-        name: "Healthy Fruits",
+        img:"https://i.ibb.co/yRZCbmP/lunch2.png",
+        name: "Delius Lunch",
         price: 9.99
      },
      {
          mealId:3,
-         img:"https://i.ibb.co/p49Jwkj/breakfast3.png",
-         name: "Espacial Breakfast",
+         img:"https://i.ibb.co/8bsDNJ2/lunch3.png",
+         name: "Espacial Lunch",
          price: 8.99
      },
      {
