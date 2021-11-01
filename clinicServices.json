@@ -1,26 +1,26 @@
 [
-    {
-      "id": 1,
-      "icon": "fas fa-ambulance",
-      "title": "Emergency Services",
-      "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    },
-    {
-      "id": 2,
-      "icon": "fas fa-user-nurse",
-      "title": "Qualified Nurse",
-      "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    },
-    {
-      "id": 3,
-      "icon": "fas fa-user-md",
-      "title": "Qualified Nurse",
-      "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    },
-    {
-      "id": 4,
-      "icon": "fas fa-notes-medical",
-      "title": "Madical Shopping",
-      "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    }
-  ]
+  {
+    "id": 1,
+    "icon": "fas fa-ambulance",
+    "title": "Emergency Services",
+    "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+  },
+  {
+    "id": 2,
+    "icon": "fas fa-user-nurse",
+    "title": "Qualified Nurse",
+    "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+  },
+  {
+    "id": 3,
+    "icon": "fas fa-user-md",
+    "title": "Qualified Doctor",
+    "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+  },
+  {
+    "id": 4,
+    "icon": "fas fa-notes-medical",
+    "title": "Madical Shopping",
+    "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia."
+  }
+]
