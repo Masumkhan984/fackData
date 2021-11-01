@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Edward Jenner",
+        "Qualification": " MD, FRS, FRCPE: Discovered vaccinations",
+        "img": "https://i.ibb.co/Cm5Z3bd/doctor1.jpg"
+    },
+    {
+        "id": 2,
+        "service_name": "Elizabeth Blackwell",
+        "Qualification": "MD: First female physician in the US",
+        "img": "https://i.ibb.co/zh3c5LJ/doctor2.jpg"
+    },
+    {
+        "id": 3,
+        "service_name": "Daniel Hale Williams",
+        "Qualification": "MD: First successful open-heart surgeon",
+        "img": "https://i.ibb.co/F7MfHbn/doctor3.jpg"
+    },
+    {
+        "id": 4,
+        "service_name": "Sir Alexander Fleming",
+        "Qualification": " MD: Discovered penicillin had a special interest",
+        "img": "https://i.ibb.co/R3rqFcC/doctor4.jpg"
+    },
+    {
+        "id": 5,
+        "service_name": "Charles Richard Drew",
+        "Qualification": "MD: Father of the blood bank",
+        "img": "https://i.ibb.co/gjJRPv0/doctor5.jpg"
+    },
+    {
+        "id": 6,
+        "service_name": "Helene D. Gayle",
+        "Qualification": " MD: HIV/AIDS research, public health",
+        "img": "https://i.ibb.co/grnqN4N/doctor6.jpg"
+    },
+    {
+        "id": 7,
+        "service_name": "Georges Mathé",
+        "Qualification": " MD, FRS, FRCPE: Discovered vaccinations",
+        "img": "https://i.ibb.co/8cJjmKK/doctor7.jpg"
+    },
+    {
+        "id": 8,
+        "service_name": "Ebne Sinah",
+        "Qualification": "MD: Father of All doctors. A Muslim medical doctor",
+        "img": "https://i.ibb.co/rtkmgfN/doctor8.jpg"
+    }
+]
