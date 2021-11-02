@@ -15,17 +15,17 @@
     },
     {
         "id": 3,
-        "name": "Omar Hassan",
-        "img": "https://image.shutterstock.com/image-photo/handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg",
-        "rating": 4.5,
-        "talk": "I enjoyed the course and learned a lot from it. The content is well organised and focused on practical situations. I particularly enjoyed the bits of psychological research shared in the content."
-    },
-    {
-        "id": 4,
         "name": "Naimul Islam",
         "img": "https://image.shutterstock.com/image-photo/close-funny-handsome-young-darkskinned-260nw-763024255.jpg",
         "rating": 4.5,
         "talk": "nice explanation of the videos. visually attractive and descriptive. questions were great as well. learnt a lot of stuff. teaches you what, when, where, why, and how to give correct feedback"
+    },
+    {
+        "id": 4,
+        "name": "Omar Hassan",
+        "img": "https://image.shutterstock.com/image-photo/handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg",
+        "rating": 4.5,
+        "talk": "I enjoyed the course and learned a lot from it. The content is well organised and focused on practical situations. I particularly enjoyed the bits of psychological research shared in the content."
     },
     {
         "id": 5,
