@@ -12,10 +12,10 @@
         "img":"https://i.ibb.co/0KZYNJW/service1.jpg"
     },
     {
-        "id": 3,
-        "service_name": "Pathology",
-        "description": "Pathology is a branch of medical science that involves the study and diagnosis of disease through the examination of surgically removed organs, tissues (biopsy samples), bodily fluids, and in some cases the whole body (autopsy).",
-        "img": "https://i.ibb.co/2jDj9JQ/service8.jpg"
+        "id": 8,
+        "service_name": "Medicine",
+        "description": "Medicine is the field of health and healing. It includes nurses, doctors, and various specialists.",
+        "img": "https://i.ibb.co/rZ2BZkt/service6.jpg"
     },
     {
         "id": 4,
@@ -42,9 +42,10 @@
         "img": "https://i.ibb.co/c82BXPj/service7.webp"
     },
     {
-        "id": 8,
-        "service_name": "Medicine",
-        "description": "Medicine is the field of health and healing. It includes nurses, doctors, and various specialists.",
-        "img": "https://i.ibb.co/rZ2BZkt/service6.jpg"
+        "id": 3,
+        "service_name": "Pathology",
+        "description": "Pathology is a branch of medical science that involves the study and diagnosis of disease through the examination of surgically removed organs, tissues (biopsy samples), bodily fluids, and in some cases the whole body (autopsy).",
+        "img": "https://i.ibb.co/2jDj9JQ/service8.jpg"
     }
+
 ]
