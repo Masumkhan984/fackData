@@ -1,61 +1,61 @@
 [
     {
         "id": 1,
-        "service_name": "Diagnosis",
+        "name": "Diagnosis",
         "description": "The identification of the nature of an illness or other problem by examination of the symptoms.",
         "img": "https://i.ibb.co/Rv3J1XM/service4.jpg"
     },
     {
         "id": 2,
-        "service_name": "Traumatology",
+        "name": "Traumatology",
         "description": "Doctors typically work for hospitals, urgent care facilities and private clinics to administer treatment and give patients health advice.",
         "img":"https://i.ibb.co/0KZYNJW/service1.jpg"
     },
     {
         "id": 3,
-        "service_name": "Medicine",
+        "name": "Medicine",
         "description": "Medicine is the field of health and healing. It includes nurses, doctors, and various specialists.",
         "img": "https://i.ibb.co/rZ2BZkt/service6.jpg"
     },
     {
         "id": 4,
-        "service_name": "Dental Care",
+        "name": "Dental Care",
         "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders.",
         "img": "https://i.ibb.co/nMtBcgJ/service2.jpg"
     },
     {
         "id": 5,
-        "service_name": "Nuclear Magnetic",
+        "name": "Nuclear Magnetic",
         "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
         "img": "https://i.ibb.co/K0x0CS9/service5.jpg"
     },
     {
         "id": 6,
-        "service_name": "X-ray",
+        "name": "X-ray",
         "description": "Medford MXD 1000 Spring Balanced Mobile X Ray Machine, 3.5 Kw, 100 Ma.Allengers 300/500/600 mA Line Frequency X-Ray Machine.",
         "img": "https://i.ibb.co/x6hHvKL/service3.jpg"
     },
     {
         "id": 7,
-        "service_name": "Cardiology",
+        "name": "Cardiology",
         "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
         "img": "https://i.ibb.co/c82BXPj/service7.webp"
     },
     {
         "id": 8,
-        "service_name": "Pathology",
+        "name": "Pathology",
         "description": "Pathology is a branch of medical science that involves the study and diagnosis of disease through the examination of surgically removed organs, tissues (biopsy samples).",
         "img": "https://i.ibb.co/2jDj9JQ/service8.jpg"
     },
     {
         "id": 2,
-        "service_name": "Traumatology",
+        "name": "Traumatology",
         "description": "Doctors typically work for hospitals, urgent care facilities and private clinics to administer treatment and give patients health advice.",
         "img":"https://i.ibb.co/0KZYNJW/service1.jpg"
     },
     {
         "id": 3,
-        "service_name": "Medicine",
+        "name": "Medicine",
         "description": "Medicine is the field of health and healing. It includes nurses, doctors, and various specialists.",
         "img": "https://i.ibb.co/rZ2BZkt/service6.jpg"
     }
