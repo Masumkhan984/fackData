@@ -14,7 +14,7 @@
       },
       {
         "id": 2,
-        "catagories": "Adobe XD",
+        "catagories": "UI/UX",
         "course_name": "Learn Figma - UI/UX Design Essential Training",
         "course_title": "Learn how to design a beautiful and engaging mobile app with Figma. Learn-by-doing approach.",
         "student_number": 35,
@@ -26,7 +26,7 @@
       },
       {
         "id": 3,
-        "catagories": "UI/UX",
+        "catagories": "Adobe XD",
         "course_name": "How to complete user research and make work flow",
         "course_title": "Learn How to complete user research and make work flow using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
         "student_number": 50,
