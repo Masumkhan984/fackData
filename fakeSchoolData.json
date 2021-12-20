@@ -26,15 +26,15 @@
       },
       {
         "id": 3,
-        "catagories": "Marketing",
-        "course_name": "The Complete Digital Marketing Course - 12 Courses in 1",
-        "course_title": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
-        "student_number": 351,
-        "rating": 5,
+        "catagories": "UI/UX",
+        "course_name": "How to complete user research and make work flow",
+        "course_title": "Learn How to complete user research and make work flow using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
+        "student_number": 50,
+        "rating": 4.5,
         "language": "English",
-        "details": "From This Course You Will Learn About:-> How to Grow a Business Online From Scratch Make Money as an Affiliate MarketerGet Hired as a Digital Marketing Expert Work From Home as a Freelance Marketer",
-        "fee": 3050,
-        "img": "https://image.freepik.com/vector-gratis/marketing_23-2148021282.jpg"
+        "details": "Make pretty much any Android app you like (your only limit is your imagination) Submit your apps to Google Play and generate revenue with Google Pay and Google Ads  Become a professional app developer, take freelance gigs and work from anywhere in the world Bored with the same old, same old? Apply for a new job in a software company as an Android developer",
+        "fee": 1550,
+        "img": "https://cdn.dribbble.com/users/472667/screenshots/4037893/ui-ux-design-banner.png"
       },
       {
         "id": 4,
@@ -50,18 +50,6 @@
       },
       {
         "id": 5,
-        "catagories": "Wordpress",
-        "course_name": "Wordpress Theme Development for Beginners",
-        "course_title": "Learn how to confidently develop custom & profitable Responsive WordPress Themes and Websites with no prior experience.",
-        "student_number": 250,
-        "rating": 4.5,
-        "language": "English",
-        "details": "You will be Able to Create Custom WordPress Themes from Scratch You will be hire-able as a WordPress Developer  You will learn Everything from the Scratch to an Expert Level You will be able to learn Plugins Customization with PHP You will be a WordPress Ninja",
-        "fee": 1550,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_KfgKd3sWMoZqHgyJ2pIcFteKjqhqf4aanhwNMZtwLMsCrqn5lQz6lnfh3xBTlHw43tE&usqp=CAU"
-      },
-      {
-        "id": 6,
         "catagories": "App Development",
         "course_name": "Android App Development - Complete Course",
         "course_title": "Learn Android O App Development using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
@@ -71,6 +59,18 @@
         "details": "Make pretty much any Android app you like (your only limit is your imagination) Submit your apps to Google Play and generate revenue with Google Pay and Google Ads  Become a professional app developer, take freelance gigs and work from anywhere in the world Bored with the same old, same old? Apply for a new job in a software company as an Android developer",
         "fee": 1550,
         "img": "https://www.deepit.com/image/android-app-vector.png"
+      },
+      {
+        "id": 6,
+        "catagories": "Wordpress",
+        "course_name": "Wordpress Theme Development for Beginners",
+        "course_title": "Learn how to confidently develop custom & profitable Responsive WordPress Themes and Websites with no prior experience.",
+        "student_number": 250,
+        "rating": 4.5,
+        "language": "English",
+        "details": "You will be Able to Create Custom WordPress Themes from Scratch You will be hire-able as a WordPress Developer  You will learn Everything from the Scratch to an Expert Level You will be able to learn Plugins Customization with PHP You will be a WordPress Ninja",
+        "fee": 1550,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_KfgKd3sWMoZqHgyJ2pIcFteKjqhqf4aanhwNMZtwLMsCrqn5lQz6lnfh3xBTlHw43tE&usqp=CAU"
       },
       {
         "id": 7,
@@ -86,15 +86,16 @@
       },
       {
         "id": 8,
-        "catagories": "UI/UX",
-        "course_name": "How to complete user research and make work flow",
-        "course_title": "Learn How to complete user research and make work flow using Java & Kotlin - build real apps including Super Mario Run, Whatsapp and Instagram!",
-        "student_number": 50,
-        "rating": 4.5,
+        "catagories": "Marketing",
+        "course_name": "The Complete Digital Marketing Course - 12 Courses in 1",
+        "course_title": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+        "student_number": 351,
+        "rating": 5,
         "language": "English",
-        "details": "Make pretty much any Android app you like (your only limit is your imagination) Submit your apps to Google Play and generate revenue with Google Pay and Google Ads  Become a professional app developer, take freelance gigs and work from anywhere in the world Bored with the same old, same old? Apply for a new job in a software company as an Android developer",
-        "fee": 1550,
-        "img": "https://cdn.dribbble.com/users/472667/screenshots/4037893/ui-ux-design-banner.png"
+        "details": "From This Course You Will Learn About:-> How to Grow a Business Online From Scratch Make Money as an Affiliate MarketerGet Hired as a Digital Marketing Expert Work From Home as a Freelance Marketer",
+        "fee": 3050,
+        "img": "https://image.freepik.com/vector-gratis/marketing_23-2148021282.jpg"
       }
     ]
   }
+
