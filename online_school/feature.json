@@ -1,7 +1,6 @@
 [
   {
-    "_id": "62c3f99b4fb9f9de036f5ec3",
-    "index": 0,
+    "id": 0,
     "picture": "https://i.ibb.co/qBGqkrs/o1.png",
     "name": "UI/UX Design Courses",
     "gender": "male",
@@ -9,8 +8,7 @@
     "number": 25
   },
   {
-    "_id": "62c3f99b6331353dfd00e178",
-    "index": 1,
+    "id": 1,
     "picture": "https://i.ibb.co/LxmsXgm/o2.png",
     "name": "Art & Design",
     "gender": "female",
@@ -18,16 +16,14 @@
     "number": 10
   },
   {
-    "_id": "62c3f99bf0f50065a6559069",
-    "index": 2,
+    "id": 2,
     "picture": "https://i.ibb.co/0V0YK6S/o3.png",
     "name": "Computer Science",
     "company": "QUILITY",
     "number": 25
   },
   {
-    "_id": "62c3f99b31ee3aa804dd4ec3",
-    "index": 3,
+    "id": 3,
     "balance": "$1,556.18",
     "picture": "https://i.ibb.co/X58pLBq/o4.png",
     "name": "History & Archeologic",
@@ -35,8 +31,7 @@
     "number": 15
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 4,
     "picture": "https://i.ibb.co/gRqp7t8/o5.png",
     "name": "Software Engineering",
     "gender": "male",
@@ -44,8 +39,7 @@
     "number": 30
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 5,
     "picture": "https://i.ibb.co/8DvzXxr/o6.png",
     "name": "Information Software",
     "gender": "male",
@@ -53,8 +47,7 @@
     "number": 60
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 6,
     "picture": "https://i.ibb.co/jrRGYWP/o7.png",
     "name": "Health & Fitness",
     "gender": "male",
@@ -62,8 +55,7 @@
     "number": 10
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 7,
     "picture": "https://i.ibb.co/K2TySjw/o8.png",
     "name": "Marketing",
     "gender": "male",
@@ -71,8 +63,7 @@
     "number": 30
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 8,
     "picture": "https://i.ibb.co/jJ5jb82/o9.png",
     "name": "Graphic Design",
     "gender": "male",
@@ -80,8 +71,7 @@
     "number": 80
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 9,
     "picture": "https://i.ibb.co/nmNx5vW/o10.png",
     "name": "Music",
     "gender": "male",
@@ -89,8 +79,7 @@
     "number": 120
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 10,
     "picture": "https://i.ibb.co/gj5W91n/o11.png",
     "name": "Business Administration",
     "gender": "male",
@@ -98,8 +87,7 @@
     "number": 17
   },
   {
-    "_id": "62c3f99bca9dfe3d28a36ccc",
-    "index": 4,
+    "id": 11,
     "picture": "https://i.ibb.co/mbhrdGZ/o12.png",
     "name": "Web Development",
     "gender": "male",
