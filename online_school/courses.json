@@ -1,97 +1,122 @@
 [
   {
     "id": 0,
-    "picture": "https://i.ibb.co/qBGqkrs/o1.png",
+    "logo": "https://i.ibb.co/qBGqkrs/o1.png",
+    "image": "https://i.ibb.co/Mc8ybDV/ui11.jpg",
     "name": "UI/UX Design Courses",
-    "gender": "male",
+    "description": "This is UI & UX design Course. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "XYMONK",
-    "number": 25
+    "number": 25,
+    "rat": 5
   },
   {
     "id": 1,
-    "picture": "https://i.ibb.co/LxmsXgm/o2.png",
+    "logo": "https://i.ibb.co/LxmsXgm/o2.png",
+    "image": "https://i.ibb.co/t8BP5cv/New-Project1.jpg",
     "name": "Art & Design",
-    "gender": "female",
+    "description": "Computes are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "XYMONK",
-    "number": 10
+    "number": 30,
+    "rat": 4.5
   },
   {
     "id": 2,
-    "picture": "https://i.ibb.co/0V0YK6S/o3.png",
+    "logo": "https://i.ibb.co/0V0YK6S/o3.png",
+    "image": "https://i.ibb.co/3fXzxs2/computer-Scince2.jpg",
     "name": "Computer Science",
+    "description": "Computes are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "QUILITY",
-    "number": 25
+    "number": 25,
+    "rat": 4
   },
   {
     "id": 3,
-    "balance": "$1,556.18",
-    "picture": "https://i.ibb.co/X58pLBq/o4.png",
-    "name": "History & Archeologic",
-    "company": "MAGNEATO",
-    "number": 15
+    "logo": "https://i.ibb.co/gRqp7t8/o5.png",
+    "image": "https://i.ibb.co/SczwVFt/software-Engeneer9.jpg",
+    "name": "Software Engineering",
+    "description": "Software Engineers are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
+    "company": "ELITA",
+    "number": 30,
+    "rat": 5
   },
   {
     "id": 4,
-    "picture": "https://i.ibb.co/gRqp7t8/o5.png",
-    "name": "Software Engineering",
-    "gender": "male",
-    "company": "ELITA",
-    "number": 30
+    "logo": "https://i.ibb.co/8DvzXxr/o6.png",
+    "image": "https://i.ibb.co/gSCXthL/information6.jpg",
+    "name": "Information Software",
+    "description": "Information Technology will help you to learn the data. we will help you. This course includes their theory, design, development, and application",
+    "company": "Coders club",
+    "number": 60,
+    "rat": 4.5
   },
   {
     "id": 5,
-    "picture": "https://i.ibb.co/8DvzXxr/o6.png",
-    "name": "Information Software",
-    "gender": "male",
+    "logo": "https://i.ibb.co/jrRGYWP/o7.png",
+    "image": "https://i.ibb.co/DtQy8rQ/health-fitness4.jpg",
+    "name": "Health & Fitness",
+    "description": "Grapich Design is the future. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
-    "number": 60
+    "number": 10,
+    "rat": 2
   },
   {
     "id": 6,
-    "picture": "https://i.ibb.co/jrRGYWP/o7.png",
-    "name": "Health & Fitness",
-    "gender": "male",
+    "logo": "https://i.ibb.co/K2TySjw/o8.png",
+    "image": "https://i.ibb.co/K9Pwh6K/marketing7.jpg",
+    "name": "Digital Marketing",
+    "description": "Digital Marketing is the future of marketing. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
-    "number": 10
+    "number": 30,
+    "rat": 5
   },
   {
     "id": 7,
-    "picture": "https://i.ibb.co/K2TySjw/o8.png",
-    "name": "Marketing",
-    "gender": "male",
+    "logo": "https://i.ibb.co/jJ5jb82/o9.png",
+    "image": "https://i.ibb.co/xzy299W/grapich-Design3.jpg",
+    "name": "Graphic Design",
+    "description": "Grapich Design is the future. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
-    "number": 30
+    "number": 80,
+    "rat": 5
   },
   {
     "id": 8,
-    "picture": "https://i.ibb.co/jJ5jb82/o9.png",
-    "name": "Graphic Design",
-    "gender": "male",
+    "logo": "https://i.ibb.co/nmNx5vW/o10.png",
+    "image": "https://i.ibb.co/4VTW15w/onine-Music8.jpg",
+    "name": "Music",
+    "description": "By online music you can Learn about the basic music. Music is the future for all time. In this current world how you can create. ",
     "company": "Coders club",
-    "number": 80
+    "number": 120,
+    "rat": 4.5
   },
   {
     "id": 9,
-    "picture": "https://i.ibb.co/nmNx5vW/o10.png",
-    "name": "Music",
-    "gender": "male",
+    "logo": "https://i.ibb.co/gj5W91n/o11.png",
+    "image": "https://i.ibb.co/8sHJvyw/business10.jpg",
+    "name": "Business Administration",
+    "description": "Business is the future for all time. In this current world how you can create a succssful business, we will help you. ",
     "company": "Coders club",
-    "number": 120
+    "number": 17,
+    "rat": 5
   },
   {
     "id": 10,
-    "picture": "https://i.ibb.co/gj5W91n/o11.png",
-    "name": "Business Administration",
-    "gender": "male",
+    "logo": "https://i.ibb.co/mbhrdGZ/o12.png",
+    "image": "https://i.ibb.co/1bjtY0j/web-Managment12.jpg",
+    "name": "Web Development",
+    "description": "Basic understanding of Web managment. After the main motive of this course. In this current world how you can create a succssful business, we will help you. Know the unknown is the main motive of this course.",
     "company": "Coders club",
-    "number": 17
+    "number": 20,
+    "rat": 4
   },
   {
     "id": 11,
-    "picture": "https://i.ibb.co/mbhrdGZ/o12.png",
-    "name": "Web Development",
-    "gender": "male",
-    "company": "Coders club",
-    "number": 20
+    "logo": "https://i.ibb.co/X58pLBq/o4.png",
+    "image": "https://i.ibb.co/QPrtcc0/history5.jpg",
+    "description": "To know the unknown is the main motive of this course. In this current world how you can create a succssful business, we will help you. Know the unknown is the main motive of this course.",
+    "name": "History & Archeologic",
+    "company": "MAGNEATO",
+    "number": 15,
+    "rat": 5
   }
 ]
