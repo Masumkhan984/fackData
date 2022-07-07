@@ -7,7 +7,8 @@
     "description": "This is UI & UX design Course. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "XYMONK",
     "number": 25,
-    "rat": 5
+    "rat": 5,
+    "price": 2000
   },
   {
     "id": 1,
@@ -17,7 +18,8 @@
     "description": "Computes are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "XYMONK",
     "number": 30,
-    "rat": 4.5
+    "rat": 4.5,
+    "price": 1500
   },
   {
     "id": 2,
@@ -27,7 +29,8 @@
     "description": "Computes are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "QUILITY",
     "number": 25,
-    "rat": 4
+    "rat": 4,
+    "price": 1000
   },
   {
     "id": 3,
@@ -37,7 +40,8 @@
     "description": "Software Engineers are the future. Basic understanding of learning computers and programming.  This course includes their theory, design, development, and application.",
     "company": "ELITA",
     "number": 30,
-    "rat": 5
+    "rat": 5,
+    "price": 2400
   },
   {
     "id": 4,
@@ -47,7 +51,8 @@
     "description": "Information Technology will help you to learn the data. we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
     "number": 60,
-    "rat": 4.5
+    "rat": 4.5,
+    "price": 1500
   },
   {
     "id": 5,
@@ -57,7 +62,8 @@
     "description": "Grapich Design is the future. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
     "number": 10,
-    "rat": 2
+    "rat": 2,
+    "price": 800
   },
   {
     "id": 6,
@@ -67,7 +73,8 @@
     "description": "Digital Marketing is the future of marketing. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
     "number": 30,
-    "rat": 5
+    "rat": 5,
+    "price": 400
   },
   {
     "id": 7,
@@ -77,7 +84,8 @@
     "description": "Grapich Design is the future. In this current world how you can create a succssful business, we will help you. This course includes their theory, design, development, and application",
     "company": "Coders club",
     "number": 80,
-    "rat": 5
+    "rat": 5,
+    "price": 300
   },
   {
     "id": 8,
@@ -87,7 +95,8 @@
     "description": "By online music you can Learn about the basic music. Music is the future for all time. In this current world how you can create. ",
     "company": "Coders club",
     "number": 120,
-    "rat": 4.5
+    "rat": 4.5,
+    "price": 1300
   },
   {
     "id": 9,
@@ -97,7 +106,8 @@
     "description": "Business is the future for all time. In this current world how you can create a succssful business, we will help you. ",
     "company": "Coders club",
     "number": 17,
-    "rat": 5
+    "rat": 5,
+    "price": 450
   },
   {
     "id": 10,
@@ -107,7 +117,8 @@
     "description": "Basic understanding of Web managment. After the main motive of this course. In this current world how you can create a succssful business, we will help you. Know the unknown is the main motive of this course.",
     "company": "Coders club",
     "number": 20,
-    "rat": 4
+    "rat": 4,
+    "price": 800
   },
   {
     "id": 11,
@@ -117,6 +128,7 @@
     "name": "History & Archeologic",
     "company": "MAGNEATO",
     "number": 15,
-    "rat": 5
+    "rat": 5,
+    "price": 400
   }
 ]
